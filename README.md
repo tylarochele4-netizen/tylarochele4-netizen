@@ -23,12 +23,13 @@
 ### 🌏 Global Context
 - 📍 **Current Base:** Nairobi, Kenya
 - 🗣️ **Languages:** English, Swahili, and Intermediate **Korean (Hangeul)**
-  
 
 ---
 
-### ⚡ Quick Stats
-- 💬 Ask me about: **Web security**
+### 📫 How to reach me:
+- **Location:** Nairobi, Kenya 
+
+- **Email:** tylarochele4@gmail.com
 
 "The best way to predict the future is to code it—or sequence it." 🧬🖥️
 
