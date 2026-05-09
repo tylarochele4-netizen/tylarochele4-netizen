@@ -9,7 +9,7 @@
 - **Global Education:** Future **KCA University** focusing on the intersection of Tech.
 
 ### 🛠️ Technical Toolkit
-- **Languages:** HTML5, CSS3, JavaScript (ES6+), Python (Learning for Data Science)
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), 
 - **Frameworks:** React.js, Express
 - **Database:** MongoDB
 - **DevOps:** Git/GitHub, Deployment & Version Control
