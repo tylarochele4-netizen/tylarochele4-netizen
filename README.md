@@ -10,7 +10,7 @@
 
 ### 🛠️ Technical Toolkit
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), Python (Learning for Data Science)
-- **Frameworks:** React.js, Tailwind CSS, Express
+- **Frameworks:** React.js, Express
 - **Database:** MongoDB
 - **DevOps:** Git/GitHub, Deployment & Version Control
 
