@@ -22,7 +22,7 @@
 
 ### 🌏 Global Context
 - 📍 **Current Base:** Nairobi, Kenya
-- 🗣️ **Languages:** English, Swahili, and Intermediate **Korean (Hangeul)**
+- 🗣️ **Languages:** English, Swahili, and Intermediate **Korean (Hangul)**
 
 ---
 
