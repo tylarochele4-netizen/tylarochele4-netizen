@@ -1,4 +1,36 @@
-## Hi there 👋
+# 🧬  Hi i'm Tyla .
+ Currently, I'm honing my engineering skills at the **IYF Weekend Academy** and preparing for a transition into the world of **software engineering**.
+
+---
+
+### 🔬 Research & Development Focus
+- **Web Architecture:** Building scalable systems using the MERN stack (MongoDB, Express, React, Node).
+- **Computational Biology:** Interested in genomic data analysis and clinical software interfaces.
+- **Global Education:** Future **KCA University** focusing on the intersection of Tech.
+
+### 🛠️ Technical Toolkit
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, Python (Learning for Data Science)
+- **Frameworks:** React.js, Tailwind CSS, Express
+- **Database:** MongoDB
+- **DevOps:** Git/GitHub, Deployment & Version Control
+
+### 📊 Current Projects
+- 🏥 ** Dev-kenya-nexus:** A secure, role-based dashboard for clinical environments.
+- 🤝 **CommunityHub:** A full-stack platform built to streamline community interactions.
+
+---
+
+### 🌏 Global Context
+- 📍 **Current Base:** Nairobi, Kenya
+- 🗣️ **Languages:** English, Swahili, and Intermediate **Korean (Hangeul)**
+  
+
+---
+
+### ⚡ Quick Stats
+- 💬 Ask me about: **Web security**
+
+"The best way to predict the future is to code it—or sequence it." 🧬🖥️
 
 <!--
 **tylarochele4-netizen/tylarochele4-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
