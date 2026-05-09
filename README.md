@@ -1,5 +1,5 @@
 # 🧬  Hi i'm Tyla .
- Currently, I'm honing my programming skills at the **IYF Weekend Academy** and preparing for a transition into the world of **software engineering**.
+ Currently, improving my programming skills at the **IYF Weekend Academy** and preparing for a transition into the world of **software engineering**.
 
 ---
 
