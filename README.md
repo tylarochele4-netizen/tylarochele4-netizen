@@ -15,7 +15,7 @@
 - **DevOps:** Git/GitHub, Deployment & Version Control
 
 ### 📊 Current Projects
-- 🏥 ** Dev-nexus kenya:** A secure, role-based dashboard for clinical environments.
+- 🏥 Dev-nexus kenya: A secure, role-based dashboard for clinical environments.
 - 🤝 **CommunityHub:** A full-stack platform built to streamline community interactions.
 
 ---
