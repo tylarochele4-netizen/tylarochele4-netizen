@@ -6,7 +6,6 @@
 ### 🔬 Research & Development Focus
 - **Web Architecture:** Building scalable systems using the MERN stack (MongoDB, Express, React, Node).
 - **Computational Biology:** Interested in genomic data analysis and clinical software interfaces.
-- **Global Education:** Future **KCA University** focusing on the intersection of Tech.
 
 ### 🛠️ Technical Toolkit
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), 
