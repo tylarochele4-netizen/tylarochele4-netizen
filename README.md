@@ -15,7 +15,7 @@
 - **DevOps:** Git/GitHub, Deployment & Version Control
 
 ### 📊 Current Projects
-- 🌄 **Weather Dashboard 
+- 🌄 **Weather Dashboard**
 - 🤝 **CommunityHub:** A full-stack platform built to streamline community interactions.
 
 ---
